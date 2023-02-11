@@ -8,7 +8,7 @@ setuptools.setup(
     description="Python Nintendo Switch controller simulator ",
     long_description="A python package for simulating a Nintendo Switch controller",
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/shinyypig/pynscontroller",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
