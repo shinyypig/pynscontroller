@@ -1,1 +1,3 @@
 .DS_Store
+build
+py_ns_controller.egg-info

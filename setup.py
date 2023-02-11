@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="py_ns_controller",
-    version="0.1",
+    name="py-ns-controller",
+    version="0.2.2",
     author="shinyypig",
     author_email="shinyypig@gmail.com",
     description="Python Nintendo Switch controller simulator ",
