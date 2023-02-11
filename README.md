@@ -55,4 +55,3 @@ Based on pynscontroller, various applications can be developed, such as:
 
 - [Splatoon 3 draw bot](./applications/splatoon_draw/)
 - waiting for your application...
-
