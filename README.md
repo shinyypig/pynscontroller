@@ -10,7 +10,7 @@ pip install py-ns-controller
 
 ## Burn the firmware
 
-The firmware is from [this repo](https://github.com/nullstalgia/UARTSwitchCon), you also can find it in this repo (bin/PRO-UART0.bin).
+The firmware is from [UARTSwitchCon](https://github.com/nullstalgia/UARTSwitchCon), you can also find it in bin/PRO-UART0.bin in this repo.
 
 Generally, you need to install the esptool to flash the firmware.
 
